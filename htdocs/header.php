@@ -38,7 +38,6 @@ echo <<<_END
 <a href='about.php'>About</a> ||
 <a href='account.php'>My Account</a> ||
 <a href='surveys_manage.php'>My Surveys</a> ||
-<a href='competitors.php'>Design and Analysis</a> ||
 <a href='sign_out.php'>Sign Out ({$_SESSION['username']})</a>
 
 _END;
