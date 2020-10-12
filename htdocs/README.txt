@@ -3,10 +3,7 @@
 
 
 
-SETUP:
-Run create_data.php
-Click the link in the page.
-use username 'a' password 'test' for user login
+Live Link: Surveyandgo.freecluster.eu
 
 Use details below for admin access
 
@@ -15,14 +12,14 @@ Admin access
 username: admin
 password: secret
 
-user access
+test user access
 --------------
 username: a
 password: test
 
 DOCUMENTATION:
 
-All user input in sanitised and validated.
+All user input are sanitised and validated.
 
 User Accounts
 --------------
@@ -39,13 +36,6 @@ Password change link in account.php uses set_password.php to change the password
 User will be signed out and sessions expired through sign_out.php
 
 Admin can view, change and delete user details in admin.php but no other user can view this page.
-
-
-
-Design and Analysis
---------------------
-competitors.php contains a comprehensive analysis of the competitors
-
 
 
 Survey Management
@@ -75,9 +65,6 @@ Updates user's account details
 
 - admin.php
 Shows admin page and has code for admin functions such as view, delete, add, edit users details
-
-- competitors.php
-Displays competitor's analysis
 
 - create_data.php
 Creates a database structure the website can use
@@ -130,7 +117,7 @@ Display the survey to a user to fill out and submit
 
 
 
-Database structure:
+Database structure (ERD):
 ---------------------
 
 <-- users -->
