@@ -1,7 +1,7 @@
 # Survey Go Website PHP
  Survey demonstration site 
  
-<Jamshid Nazari> - 2018/19
+Jamshid Nazari - 2018/19
 
 <a href="Surveyandgo.freecluster.eu">Live Link: Surveyandgo.freecluster.eu</a>
 
