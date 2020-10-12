@@ -3,7 +3,6 @@
  
 <Jamshid Nazari> - 2018/19
 
-Live Link: Surveyandgo.freecluster.eu
 <a href="Surveyandgo.freecluster.eu">Live Link: Surveyandgo.freecluster.eu</a>
 
 Use details below for admin access
